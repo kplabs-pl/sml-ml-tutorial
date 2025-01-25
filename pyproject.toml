@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sml-tutorials-ml-deployment"
+version = "1.0.0"
+authors = [
+    { name = "KP Labs"}
+]
+
+[tool.black]
+line-length = 120
+
+[tool.isort]
+profile = "black"

@@ -1,0 +1,15 @@
+einops
+h5py
+ipywidgets
+jupyterlab
+matplotlib
+pandas
+pytorch-lightning
+segmentation-models-pytorch
+scikit-image
+torch
+torch-summary
+torchmetrics
+torchvision
+tqdm
+-e .
